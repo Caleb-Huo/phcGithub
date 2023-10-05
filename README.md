@@ -12,3 +12,7 @@ devtools::install_github("Caleb-Huo/phcGithub")
 library(phcGit)
 f(1,2)
 ```
+
+### full turorial
+
+http://htmlpreview.github.io/?https://github.com/Caleb-Huo/phcGithub/blob/main/vignettes/tutorial.html
